@@ -9,8 +9,6 @@ Thank you Dynathelion, I will introduce myself.
 
 My name is **Vilém Charwot**, I am a passionate programmer and currently I am studying [Aplied Informatics](https://fis.vse.cz/bakalarske-studium/bakalarske-programy/program-aplikovana-informatika/) udergraduate programme at the [Prague University of Economics and Business](https://fis.vse.cz/).
 
-Apart from university 🎓, I work at Enerfis as a junior software engineer 🚀.
-
 ## Languages of Creation
 
 > _"In the realm of Logikaion, words hold power. These are the languages through which new realities emerge."_
